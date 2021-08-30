@@ -802,4 +802,4 @@
 - [Tim Guenthner](https://github.com/aerotog)
 - [Jhonatan Casale](https://github.com/jhonatancasale)
 - [Kik Tachanok](https://github.com/tachanokkik)
-- [Melodie Ezeani](https://github.com/Melodie97)
+- [Melodie C. Ezeani](https://github.com/Melodie97)
